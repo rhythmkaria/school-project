@@ -1,0 +1,14 @@
+nav {
+    background-color: black;
+    color: white;
+}
+
+announcment {
+    background-color: blue;
+}
+
+marquee {
+    font-size: 25px;
+    color: red;
+    background-color: aqua;
+}
