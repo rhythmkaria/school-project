@@ -57,3 +57,16 @@ marquee {
 .movie_text span{
     color: #ff7700
 }
+.environment_li{
+    margin-top: 13px
+}
+.enviorment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px
+}
+.enviorment_li img{
+    border-radius: 25px;
+}
+.enviorment_li p{
+    margin-top: 10px;
+}
